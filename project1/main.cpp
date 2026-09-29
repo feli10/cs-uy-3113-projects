@@ -8,10 +8,10 @@ constexpr int SCREEN_WIDTH  = 550,
 constexpr char BG_COLOUR[] = "#000000";
 
 // Textures
-constexpr char ONE_FP[]   = "assets/game/earth.png";
-constexpr char TWO_FP[]   = "assets/game/water.png";
-constexpr char THREE_FP[] = "assets/game/air.png";
-constexpr char FOUR_FP[]  = "assets/game/fire.png";
+constexpr char ONE_FP[]   = "assets/earth.png";
+constexpr char TWO_FP[]   = "assets/water.png";
+constexpr char THREE_FP[] = "assets/air.png";
+constexpr char FOUR_FP[]  = "assets/fire.png";
 
 // Global Variables
 AppStatus gAppStatus = RUNNING;
