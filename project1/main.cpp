@@ -1,3 +1,13 @@
+/**
+* Author: Xufei (Felix) Zhang
+* Assignment: Draw a Simple 2D Scene
+* Date due: [10/03/2026]
+* I pledge that I have completed this assignment without
+* collaborating with anyone else, in conformance with the
+* NYU School of Engineering Policies and Procedures on
+* Academic Misconduct.
+**/
+
 #include "CS3113/cs3113.h"
 
 // Global Constants
