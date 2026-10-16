@@ -15,7 +15,7 @@ constexpr int SCREEN_WIDTH  = 550,
               SCREEN_HEIGHT = 550,
               FPS           = 60;
 
-constexpr char BG_COLOUR[] = "#000000";
+constexpr char BG_COLOR[] = "#000000";
 
 // Textures
 constexpr char ONE_FP[]   = "assets/earth.png";
