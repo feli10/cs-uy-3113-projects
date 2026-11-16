@@ -159,9 +159,9 @@ public:
         { mEntityType = entityType;                }
     void setAnimating(bool isAnimating)
         { mIsAnimating = isAnimating;              }
-    void resetAnimation()  // jump back to the first frame
+    void resetAnimation()  
         { mCurrentFrameIndex = 0; mAnimationTime = 0.0f; }
-    void setThrusting(bool isThrusting)  // same thing, named for the rocket
+    void setThrusting(bool isThrusting)  
         { mIsAnimating = isThrusting;              }
     void setColliderVisible(bool isVisible)
         { mIsColliderVisible = isVisible;          }
